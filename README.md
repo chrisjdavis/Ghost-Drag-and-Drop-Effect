@@ -1,4 +1,4 @@
-Ghost-Drag-and-Drop-Effect
+Ghost Drag and Drop Effect
 ==========================
 
 Customized resources to acheive the fancy drag and drop from the Ghost interface. These are the modified or hard to find assets for this whole thang. You will also need to grab:
